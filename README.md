@@ -59,3 +59,6 @@ sua empresa. Vamos ajudá-lo. Iremos começar construindo o banco de dados
 #### Primeiro diagrama:
 !["Diagrama Casa Oliveira"](diagrama.JPG)
 
+#### Esquema de tabela para o banco de dados
+!["Esquema Excel Casa Oliveira"](esquemacasaoliveira.png)
+
